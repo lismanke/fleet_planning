@@ -1,0 +1,26 @@
+# cmake-related
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# objcts
+*.o
+*.out
+
+# build/output directories
+build/
+output/
+
+# emacs-related
+compile_commands.json
+\#*\#
+.projectile
+
+# vscode-related
+\.vscode
